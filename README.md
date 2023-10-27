@@ -1,0 +1,2 @@
+# natanael
+pensamento computacional
